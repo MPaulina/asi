@@ -47,6 +47,7 @@ Zespoły:
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 1. [PANDA5](https://github.com/lipek92/PANDA5)
+2. [P&S - dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI)
 
 Indywidualiści:
 
